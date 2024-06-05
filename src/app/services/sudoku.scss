@@ -1,0 +1,15 @@
+.sudoku-container {
+  td {
+    border: 1px black solid;
+  }
+  input {
+    padding-left: 40%;
+    width: 3em;
+    height: 3em;
+    border: none;
+  }
+  .prefilled {
+    color: rgb(85, 192, 133);
+    font-style: bold;
+  }
+}
